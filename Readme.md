@@ -5,8 +5,11 @@ usage:
 2) open serial (ex. teraterm etc).
 3) test type something into keyboard then callbacks.
 4) type q for exiting callback test.
+5) you could entry memory.
+   like EE 01(enter) -> 01 address is EE value.
 5) type help -> same as original.
-you could entry memory something after reboot with R command.
+6) reboot with R command(same as original).
+7) m 0000 -> memory dump (entry check).
 
 I build this with wsl2(Ubuntu).
 
