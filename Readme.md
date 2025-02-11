@@ -43,3 +43,6 @@ main.c is original.
 </PRE>
 
 Enjoy!
+
+<a><img src="https://github.com/cobwebkanamachi/rpi8080-slightlyMOD/raw/1.png">boot -> callback (aiuq entered) -> memory entry(FF 00(enter) FE 01(enter) FD 02(enter)q -> m_0000(enter)</a>
+<a><img src="https://github.com/cobwebkanamachi/rpi8080-slightlyMOD/raw/2.png">after m_0000(enter)</a>
