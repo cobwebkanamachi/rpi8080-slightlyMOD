@@ -1,7 +1,18 @@
 clone of https://github.com/erfan-khadem/rpi8080 slightly mod.
-
 <PRE>
- diff main.c ../../main.c
+usage: 
+1) put uf2 into pico under bootsel mode.
+2) open serial (ex. teraterm etc).
+3) test type something into keyboard then callbacks.
+4) type q for exiting callback test.
+5) type help -> same as original.
+you could entry memory something after reboot with R command.
+
+I build this with wsl2(Ubuntu).
+
+diff main.c ../../main.c
+main.c is original.
+../../main.c is mine
 163,164c163,175
 <
 <     stdio_usb_init();
