@@ -44,5 +44,5 @@ main.c is original.
 
 Enjoy!
 
-<a><img src="https://github.com/cobwebkanamachi/rpi8080-slightlyMOD/raw/main/1.png">boot -> callback (aiuq entered) -> memory entry(FF 00(enter) FE 01(enter) FD 02(enter)q -> m_0000(enter)</a><BR>
-<a><img src="https://github.com/cobwebkanamachi/rpi8080-slightlyMOD/raw/main/2.png">after m_0000(enter)</a>
+<a>>boot -> callback (aiuq entered) -> memory entry(FF 00(enter) FE 01(enter) FD 02(enter)q -> m_0000(enter)<img src="https://github.com/cobwebkanamachi/rpi8080-slightlyMOD/raw/main/1.png"</a><BR>
+<a>after m_0000(enter)<img src="https://github.com/cobwebkanamachi/rpi8080-slightlyMOD/raw/main/2.png"></a>
